@@ -1,0 +1,13 @@
+C:\Users\Me\source\repos\Homework 1\Ex1\bin\Debug\netcoreapp3.1\Ex1.exe
+C:\Users\Me\source\repos\Homework 1\Ex1\bin\Debug\netcoreapp3.1\Ex1.deps.json
+C:\Users\Me\source\repos\Homework 1\Ex1\bin\Debug\netcoreapp3.1\Ex1.runtimeconfig.json
+C:\Users\Me\source\repos\Homework 1\Ex1\bin\Debug\netcoreapp3.1\Ex1.runtimeconfig.dev.json
+C:\Users\Me\source\repos\Homework 1\Ex1\bin\Debug\netcoreapp3.1\Ex1.dll
+C:\Users\Me\source\repos\Homework 1\Ex1\bin\Debug\netcoreapp3.1\Ex1.pdb
+C:\Users\Me\source\repos\Homework 1\Ex1\obj\Debug\netcoreapp3.1\Ex1.csprojAssemblyReference.cache
+C:\Users\Me\source\repos\Homework 1\Ex1\obj\Debug\netcoreapp3.1\Ex1.AssemblyInfoInputs.cache
+C:\Users\Me\source\repos\Homework 1\Ex1\obj\Debug\netcoreapp3.1\Ex1.AssemblyInfo.cs
+C:\Users\Me\source\repos\Homework 1\Ex1\obj\Debug\netcoreapp3.1\Ex1.csproj.CoreCompileInputs.cache
+C:\Users\Me\source\repos\Homework 1\Ex1\obj\Debug\netcoreapp3.1\Ex1.dll
+C:\Users\Me\source\repos\Homework 1\Ex1\obj\Debug\netcoreapp3.1\Ex1.pdb
+C:\Users\Me\source\repos\Homework 1\Ex1\obj\Debug\netcoreapp3.1\Ex1.genruntimeconfig.cache

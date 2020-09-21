@@ -1,0 +1,13 @@
+C:\Users\Me\source\repos\Homework 1\Ex9\bin\Debug\netcoreapp3.1\Ex9.exe
+C:\Users\Me\source\repos\Homework 1\Ex9\bin\Debug\netcoreapp3.1\Ex9.deps.json
+C:\Users\Me\source\repos\Homework 1\Ex9\bin\Debug\netcoreapp3.1\Ex9.runtimeconfig.json
+C:\Users\Me\source\repos\Homework 1\Ex9\bin\Debug\netcoreapp3.1\Ex9.runtimeconfig.dev.json
+C:\Users\Me\source\repos\Homework 1\Ex9\bin\Debug\netcoreapp3.1\Ex9.dll
+C:\Users\Me\source\repos\Homework 1\Ex9\bin\Debug\netcoreapp3.1\Ex9.pdb
+C:\Users\Me\source\repos\Homework 1\Ex9\obj\Debug\netcoreapp3.1\Ex9.csprojAssemblyReference.cache
+C:\Users\Me\source\repos\Homework 1\Ex9\obj\Debug\netcoreapp3.1\Ex9.AssemblyInfoInputs.cache
+C:\Users\Me\source\repos\Homework 1\Ex9\obj\Debug\netcoreapp3.1\Ex9.AssemblyInfo.cs
+C:\Users\Me\source\repos\Homework 1\Ex9\obj\Debug\netcoreapp3.1\Ex9.csproj.CoreCompileInputs.cache
+C:\Users\Me\source\repos\Homework 1\Ex9\obj\Debug\netcoreapp3.1\Ex9.dll
+C:\Users\Me\source\repos\Homework 1\Ex9\obj\Debug\netcoreapp3.1\Ex9.pdb
+C:\Users\Me\source\repos\Homework 1\Ex9\obj\Debug\netcoreapp3.1\Ex9.genruntimeconfig.cache
